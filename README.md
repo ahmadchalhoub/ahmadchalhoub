@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmadchalhoub
 - 👀 I’m interested in Machine Learning!
-- 🌱 I’m currently going through my last semester of my undergraduate degree, majoring in Robotics and Mechatronic Systems Engineering.
+- 🌱 I’m a Robotics and Mechatronic Systems Engineering graduate from the University of Detroit Mercy.
 - 📫 How to reach me: chalhoah@gmail.com
 
 <!---
