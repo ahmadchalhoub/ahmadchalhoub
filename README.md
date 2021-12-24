@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ahmadchalhoub
-- 👀 I’m interested in Machine Learning!
+- 👋 Hi, my name is Ahmad Chalhoub.
 - 🌱 I’m a Robotics and Mechatronic Systems Engineering graduate from the University of Detroit Mercy.
+- 👀 I’m interested in Machine Learning!
 - 📫 How to reach me: chalhoah@gmail.com
 
 <!---
