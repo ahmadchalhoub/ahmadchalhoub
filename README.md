@@ -1,7 +1,6 @@
 - 👋 Hi, my name is Ahmad Chalhoub.
 - 🌱 I’m an Application Engineer at Mitsubishi Electric Automotive America, working with Android and Machine Learning
-for Automotive applications.
-- 👀 I’m interested in Machine Learning!
+for safety and entertainment automotive applications.
 - 📫 How to reach me: chalhoah@gmail.com
 
 <!---
