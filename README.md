@@ -1,4 +1,3 @@
-Machine Learning & Computer Vision Engineer.
 You can reach me at: chalhoah@gmail.com.
 
 <!---
