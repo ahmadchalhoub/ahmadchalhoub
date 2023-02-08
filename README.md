@@ -1,6 +1,5 @@
-- 👋 Hi, my name is Ahmad Chalhoub.
-- 🌱 I’m an Automotive Perception Engineer at Mitsubishi Electric Automotive America, working on machine learning and perception solutions for ADAS applications.
-- 📫 How to reach me: chalhoah@gmail.com
+Machine Learning & Computer Vision Engineer.
+You can reach me at: chalhoah@gmail.com.
 
 <!---
 ahmadchalhoub/ahmadchalhoub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
